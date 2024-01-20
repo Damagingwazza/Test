@@ -7,3 +7,5 @@
 [node name="Sprite2D" type="Sprite2D" parent="."]
 position = Vector2(558, 261)
 texture = ExtResource("1_76qkx")
+
+[node name="Timer" type="Timer" parent="."]
